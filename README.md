@@ -34,7 +34,7 @@ Language inference using a pretrained fasttext model on the papers abstracts.
 
 Preprocessing and Latent Dirichlet Allocation to find the topics. 
 
-Use of pyLDAvis for topics clustering visualization.
+Use of pyLDAvis for topics clustering visualization (measures the intertopic distance).
 
 ![Graph full](images/full_graph.png)
 ![Graph selection](images/selected_graph.png)
