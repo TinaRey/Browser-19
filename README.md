@@ -10,7 +10,9 @@ Our search engine is not completely linked to our visualization tool yet.
 
 ### Search engine repository:
 The code that we made for the search engine is in another repo: https://github.com/TinaRey/covid-19 (forked)
+
 Note that it is only a front end that does not do an actual search, but the connection with the back end is almost done.
+
 The back end connection with the front end has not been maintained.
 
 ### Visualization:
@@ -29,7 +31,9 @@ We used the idea of the search engine and some of their code (located in the scr
 Disclaimer: some of the work was already done before the start of the Lauzhack hackathon (this project started a week before for the *CodeVsCovid19* hackathon).
 ### NLP
 Language inference using a pretrained fasttext model on the papers abstracts.
+
 Preprocessing and Latent Dirichlet Allocation to find the topics. 
+
 Use of pyLDAvis for topics clustering visualization.
 
 ![Graph full](images/full_graph.png)
