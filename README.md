@@ -1,5 +1,5 @@
 # Browser-19
-Repository for the hackathon Lauzhack Against COVID-19.
+Repository for the hackathon Lauzhack Against COVID-19. https://devpost.com/software/web-browser-for-scientific-coronavirus-paper
 
 This project aims to provide a visual aid to browse through the papers related to the different coronaviruses. We used NLP tools to cluster scientific papers within a topic and a subtopic, and then we built a graph network of the papers in its subtopic.
 
